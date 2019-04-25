@@ -1,7 +1,15 @@
+ul.burgerB4 {
+  list-style-image: url('../images/burgerIcon.png');
+  }
+
+ul.burgerAfter {
+  list-style-image: url('../images/bugerBiteIcon2.jpg');
+  }
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #ffd480;
 }
 
 .label {
@@ -18,6 +26,14 @@ li {
   margin-bottom: 5px;
 }
 
-html {
-  background-image: "../images/burger.jpg" !important;
+html, body {
+  background-color: #ffc34d ;
+}
+
+h1 {
+  color: white;
+  font-size: 64px;
+}
+
+#newBurger {
 }
