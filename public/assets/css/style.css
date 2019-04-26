@@ -35,5 +35,6 @@ h1 {
   font-size: 64px;
 }
 
-#newBurger {
+br {
+  height: 20px;
 }
